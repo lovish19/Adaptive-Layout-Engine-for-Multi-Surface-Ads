@@ -6,7 +6,7 @@ FORM 01 is a fictional headphone product. The example includes a headline, hero,
 
 ## Demo
 
-Live demo: [ADD DEPLOYED URL]
+Live demo: [(https://adaptive-layout-engine-for-multi-su-green.vercel.app/)]
 
 Development: `http://127.0.0.1:5173`. Production preview: `http://127.0.0.1:4173`.
 
