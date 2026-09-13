@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.tools/
+.verification/
+.npm-cache/
+submission/
+*.log
+*.tsbuildinfo
+*.local
+.env*
+!.env.example
