@@ -344,7 +344,7 @@ export function App({ measureText }: { measureText: TextMeasurer }) {
             Adaptive Layout Engine <span className="footer-divider">/</span>{" "}
             Frontend R&D
           </span>
-          <span>Built around constraints, not breakpoints.</span>
+          <span>Built around constraints, not breakpoints. by Lovish Singla</span>
         </footer>
       </main>
       <dialog
